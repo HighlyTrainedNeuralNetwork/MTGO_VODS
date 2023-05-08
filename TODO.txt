@@ -1,0 +1,1 @@
+#TODO Threading to support live audio waveform graphing and audio replay lagged by 1 sec instead of waiting for the audio to finish recording
